@@ -91,4 +91,4 @@ upon all parties (related or non-related).
 [Aseem Kishore](https://github.com/aseemk) inspired this delightful work with his groundbreaking
 work on [JSON5](https://github.com/aseemk/json5).
 
-Please do not ever take this seriously.
+Please take this seriously.
